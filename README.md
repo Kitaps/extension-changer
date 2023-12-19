@@ -9,3 +9,6 @@ Clone repository (or download)
 Move the main.py file into the folder where the files to be cahnged are
 
 Run the script and follow the instructions (2 steps)
+
+### Misc
+Took me 46 min (too long, I assumed I would be done in 30). But well, I took my time reading the docs and trying different ways of choosing the extensions
