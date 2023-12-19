@@ -20,5 +20,7 @@ If we then give the input `txt` for old and `csv` for new we would end with a fi
 Therefore if we want to change only the extension and not the file name, make sure to add the `.`
 
 In this case we would use `.txt` and `.csv` and the result would be a file named `txt.csv`, which is probably what is desired. 
+
+If you for instance happen to call your file `txt.txt.txt`, then I am very sorry for you and your soul and your parent's must be dissapointed :c
 ### Misc
 Took me 46 min (too long, I assumed I would be done in 30). But well, I took my time reading the docs and trying different ways of choosing the extensions
