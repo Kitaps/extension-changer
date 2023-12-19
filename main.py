@@ -1,7 +1,5 @@
 from os import rename, listdir
 
-from aux_functions import change_file_extension
-
 old_extension = ".txt"
 new_extension = ".csv"
 
